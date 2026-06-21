@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/HTML-Single_File-0e75b6?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/No_Dependencies-0e75b6?style=flat-square" />
   <img src="https://img.shields.io/badge/License-MIT-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/lwuisy/readme-previewer?style=flat-square&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Repo_Size-7_KB-0e75b6?style=flat-square" />
 </p>
 
 ---
